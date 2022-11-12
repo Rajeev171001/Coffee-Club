@@ -1,4 +1,4 @@
 # Coffee-Club
 <p align=center>
-  <img src="GFG.png" width=250px height=250px>
+  <img src="coffee.jpeg" width=350px height=250px>
 </p>
